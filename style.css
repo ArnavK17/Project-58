@@ -1,0 +1,29 @@
+body{
+text-align:center;
+}
+#hobbyImage{
+  border-radius:50%;
+  width:100px;
+}
+#hobbyname{
+  font-family:cursive;
+}
+p{
+  font-family:cursive;
+}
+#2ndhobbyimage{
+ border-radius:50%;
+  width:100px; 
+}
+#2ndhobbyname{
+ font-family:cursive; 
+}
+#3rdhobbyImage{
+  border-radius:50%;
+  width:100px;  
+}
+#3rdhobbyname{
+ font-family:cursive; 
+  
+  
+}
